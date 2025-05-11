@@ -1,4 +1,4 @@
-package com.estudo.senderemail.application.dto.Response;
+package com.estudo.senderemail.application.dto;
 
 import java.util.UUID;
 
